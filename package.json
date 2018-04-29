@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/bhavyadalwadi/port/issues"
   },
-  "homepage": "https://github.com/bhavyadalwadi/port#readme"
+  "homepage": "https://github.com/bhavyadalwadi/port#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
 }
