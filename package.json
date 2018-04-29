@@ -1,0 +1,19 @@
+{
+  "name": "my-portfolio-codebase",
+  "version": "1.0.0",
+  "description": "Bhavya's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bhavyadalwadi/port.git"
+  },
+  "author": "Bhavya Dalwadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavyadalwadi/port/issues"
+  },
+  "homepage": "https://github.com/bhavyadalwadi/port#readme"
+}
